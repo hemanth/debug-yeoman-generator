@@ -27,7 +27,3 @@ $ debug-generator node
 __TODO:__
 
 * Support other O.S
-
-* Cleaner way to open browser.
-
-* Cleanup (kill inspector et.al)
