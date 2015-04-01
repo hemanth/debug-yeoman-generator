@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # Check if the user as passed in the generator name.
-[ -e $1 ] &&
-echo "Generator name is a must."
+[ -e $1 ] && \
+echo "Generator name is a must." \
 && exit -1;
 
 # Check if node-inspector is installed.
