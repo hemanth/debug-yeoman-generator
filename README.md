@@ -7,8 +7,7 @@ __Installation:__
 Copy paste the below code in your terminal. (Expecting a *nix evn.)
 
 ```sh
-$ curl -s https://raw.githubusercontent.com/hemanth/debug-yeoman-generator/mast
-er/debug-generator.sh > /usr/bin/debug-generator; chmod a+x /usr/bin/debug-generator
+$ curl -s https://raw.githubusercontent.com/hemanth/debug-yeoman-generator/master/debug-generator.sh > /usr/local/bin/debug-generator; chmod a+x /usr/local/bin/debug-generator
 ```
 __Usage:__
 
